@@ -17,9 +17,9 @@ del pin_config_df
 
 def lambda_handler(event, context):
     pin = event['pin']
-    # category_code = event['categoryCode']
+    category_code = event['categoryCode']
     config_df = pd.json_normalize(config)
-    # config_df = config_df[config_df['Category ID'] == category_code]
+    config_df = config_df[config_df['Category ID'] == category_code]
     partner_ids = list(set(config_df['Partner ID'].to_list()))
     partner_ids = [str(x) for x in partner_ids]
     return {
