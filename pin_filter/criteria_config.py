@@ -37,7 +37,7 @@ config = [
   },
   {
     "Partner ID": 193,
-    "Category ID": 15
+    "Category ID": 18
   },
   {
     "Partner ID": 207,
