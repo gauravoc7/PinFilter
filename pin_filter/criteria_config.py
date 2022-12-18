@@ -33,7 +33,7 @@ config = [
   },
   {
     "Partner ID": 197,
-    "Category ID": 0
+    "Category ID": 15
   },
   {
     "Partner ID": 193,
@@ -57,11 +57,11 @@ config = [
   },
   {
     "Partner ID": 198,
-    "Category ID": 0
+    "Category ID": 15
   },
   {
     "Partner ID": 205,
-    "Category ID": 0
+    "Category ID": 15
   },
   {
     "Partner ID": 185,
@@ -73,11 +73,11 @@ config = [
   },
   {
     "Partner ID": 191,
-    "Category ID": 16
+    "Category ID": 9
   },
   {
     "Partner ID": 190,
-    "Category ID": 16
+    "Category ID": 9
   },
   {
     "Partner ID": 187,
@@ -109,7 +109,7 @@ config = [
   },
   {
     "Partner ID": 201,
-    "Category ID": 11
+    "Category ID": 9
   },
   {
     "Partner ID": 203,
@@ -117,11 +117,11 @@ config = [
   },
   {
     "Partner ID": 206,
-    "Category ID": 0
+    "Category ID": 11
   },
   {
     "Partner ID": 209,
-    "Category ID": 10
+    "Category ID": 9
   },
   {
     "Partner ID": 210,
@@ -137,7 +137,7 @@ config = [
   },
   {
     "Partner ID": 215,
-    "Category ID": 0
+    "Category ID": 11
   },
   {
     "Partner ID": 214,
@@ -145,7 +145,7 @@ config = [
   },
   {
     "Partner ID": 177,
-    "Category ID": 16
+    "Category ID": "#N/A"
   },
   {
     "Partner ID": 104,
@@ -157,11 +157,11 @@ config = [
   },
   {
     "Partner ID": 217,
-    "Category ID": 0
+    "Category ID": 16
   },
   {
     "Partner ID": 220,
-    "Category ID": 0
+    "Category ID": "#N/A"
   },
   {
     "Partner ID": 70,
@@ -189,7 +189,7 @@ config = [
   },
   {
     "Partner ID": 89,
-    "Category ID": 5
+    "Category ID": "#N/A"
   },
   {
     "Partner ID": 218,
@@ -201,7 +201,7 @@ config = [
   },
   {
     "Partner ID": 168,
-    "Category ID": 0
+    "Category ID": 5
   },
   {
     "Partner ID": 137,
@@ -209,7 +209,7 @@ config = [
   },
   {
     "Partner ID": 178,
-    "Category ID": 12
+    "Category ID": "#N/A"
   },
   {
     "Partner ID": 139,
@@ -225,6 +225,6 @@ config = [
   },
   {
     "Partner ID": 141,
-    "Category ID": 17
+    "Category ID": "#N/A"
   }
 ]
